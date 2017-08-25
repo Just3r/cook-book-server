@@ -15,13 +15,14 @@ Install yarn:
 npm install -g yarn
 ```
 
-Install dependencies:
-```sh
-yarn
-```
 Set environment (vars):
 ```sh
 cp .env.example .env
+```
+
+Install dependencies:
+```sh
+yarn
 ```
 
 
