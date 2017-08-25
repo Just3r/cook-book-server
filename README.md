@@ -25,15 +25,16 @@ Install dependencies:
 yarn
 ```
 
-
-Run  seeds:
-```sh
-yarn seed
-```
-
 Start server:
 ```sh
 yarn start
 ```
+
+
 Server will run on 4040 by default
 
+
+Run  seeds to add data:
+```sh
+yarn seed
+```
